@@ -25,7 +25,7 @@ export const projectData = [
     name: "FoodOrderApp",
     image: foodOrderAppImg,
     stack: ["MERN stack"],
-    githubLink: "https://github.com/samarpansarkar/MERN-foodApp",
+    githubLink: "https://github.com/ONsUbhaM/MERN-foodApp",
     liveLink: "https://mern-food-app-one.vercel.app/",
   },
   // {
